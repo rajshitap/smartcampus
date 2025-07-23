@@ -1,1 +1,3 @@
-# smartcampus
+# smartcampusmap
+
+A new Flutter project.
